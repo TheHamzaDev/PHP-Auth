@@ -1,0 +1,8 @@
+.footerCenter {
+  display: flex;
+  align-items: center;
+}
+
+.footerColor {
+  color: #0275d8;
+}

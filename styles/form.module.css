@@ -1,0 +1,10 @@
+.formPaddingY {
+  padding: 80px 0;
+}
+
+.formCenter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}

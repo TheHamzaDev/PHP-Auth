@@ -1,0 +1,14 @@
+.containerMaxWidth {
+  max-width: 350px;
+}
+
+.containerMinHeight {
+  min-height: 100vh;
+}
+
+.containerCenter {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+}
